@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rat a Tat Cat/1.0.0": {
+        "runtime": {
+          "Rat a Tat Cat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rat a Tat Cat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

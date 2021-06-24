@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\bin\Debug\netcoreapp3.1\Rat a Tat Cat.exe
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\bin\Debug\netcoreapp3.1\Rat a Tat Cat.deps.json
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\bin\Debug\netcoreapp3.1\Rat a Tat Cat.runtimeconfig.json
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\bin\Debug\netcoreapp3.1\Rat a Tat Cat.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\bin\Debug\netcoreapp3.1\Rat a Tat Cat.dll
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\bin\Debug\netcoreapp3.1\Rat a Tat Cat.pdb
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\obj\Debug\netcoreapp3.1\Rat a Tat Cat.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\obj\Debug\netcoreapp3.1\Rat a Tat Cat.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\obj\Debug\netcoreapp3.1\Rat a Tat Cat.AssemblyInfo.cs
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\obj\Debug\netcoreapp3.1\Rat a Tat Cat.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\obj\Debug\netcoreapp3.1\Rat a Tat Cat.dll
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\obj\Debug\netcoreapp3.1\Rat a Tat Cat.pdb
+C:\Users\Student\source\repos\Rat a Tat Cat\Rat a Tat Cat\obj\Debug\netcoreapp3.1\Rat a Tat Cat.genruntimeconfig.cache
